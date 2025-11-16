@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "cicd-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  ""scripts": {
+  "start": "node server.js",
+  "test": "node -e \"console.log('no tests yet')\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
